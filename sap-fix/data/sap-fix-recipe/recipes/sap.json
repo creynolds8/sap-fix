@@ -2,16 +2,16 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "tag": "forge:logs"
+      "tag": "minecraft:logs"
     },
     {
-      "tag": "forge:logs"
+      "tag": "minecraft:logs"
     },
     {
-      "tag": "forge:logs"
+      "tag": "minecraft:logs"
     },
     {
-      "tag": "forge:logs"
+      "tag": "minecraft:logs"
     },
     {
       "amount": 1000,
